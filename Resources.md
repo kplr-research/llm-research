@@ -10,7 +10,7 @@
 - [Word Embedding in PyTorch + Lightning](https://www.youtube.com/watch?v=Qf06XDYXCXI)
 - [Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!](https://www.youtube.com/watch?v=bQ5BoolX9Ag)
 ### Papers , Articles :
-- *
+- [Attention is all you need ](https://arxiv.org/abs/1706.03762)
 - 
 
 ### Codes :
@@ -36,7 +36,7 @@
 - ..
 - 
 ### Papers , Articles :
-- *
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - 
 ### Codes :
 - *
@@ -46,7 +46,7 @@
 - [Mistral / Mixtral Explained: Sliding Window Attention, Sparse Mixture of Experts, Rolling Buffer](https://www.youtube.com/watch?v=UiX8K-xBUpE)
 
 ### Papers , Articles :
-- *
+- [Mistral 7B](https://arxiv.org/abs/2310.06825)
 - 
 ### Codes :
 - *
