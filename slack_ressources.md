@@ -12,7 +12,7 @@
 | LLMs | LLM Visualization | Tool | <https://bbycroft.net/llm> |
 | LLMs | App Store for AI: OpenAI's GPT Store lets you build (and monetize) your own GPT | Article | <https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/> |
 | LLMs | Embeddings | Documentation | <https://platform.openai.com/docs/guides/embeddings/what-are-embeddings> |
-| LLMs | No Priors Ep. 40 | With Arthur Mensch, CEO Mistral AI | Video | <https://www.youtube.com/watch?v=EMOFRDOMIiU> |
+| LLMs | No Priors Ep. 40 - With Arthur Mensch, CEO Mistral AI | Video | <https://www.youtube.com/watch?v=EMOFRDOMIiU> |
 | LLMs | Mistral AI's Open Source Initiative - Arthur Mensch, Mistral AI - #aiPULSE 2023 | Video | <https://www.youtube.com/watch?v=5fNtOsu3YvQ> |
 | LLMs | Mistral 7B - Raw Open Source Power Dethroning OpenAI | Video | <https://www.youtube.com/watch?v=ntEln1a4ywQ> |
 | LLM and Generative AI | Google Lied To Us! (And Other AI News) | Video | <https://www.youtube.com/watch?v=i6Dm4YhAe18> |
