@@ -53,4 +53,4 @@
 - 
 ## Micro-Batch Pipeline Parallelism :
 ### Papers , Articles :
-- [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism]([https://arxiv.org/abs/2310.06825](https://arxiv.org/pdf/1811.06965.pdf%E2%80%8Barxiv.org)https://arxiv.org/pdf/1811.06965.pdf%E2%80%8Barxiv.org)
+- [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism](https://arxiv.org/abs/2310.06825](https://arxiv.org/pdf/1811.06965.pdf%E2%80%8Barxiv.org)https://arxiv.org/pdf/1811.06965.pdf%E2%80%8Barxiv.org)
