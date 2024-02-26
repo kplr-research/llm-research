@@ -16,4 +16,4 @@
 - Tavily
 
 # Chatbot Interface
-- oobabooga[https://github.com/oobabooga/text-generation-webui]
+- [oobabooga](https://github.com/oobabooga/text-generation-webui)
