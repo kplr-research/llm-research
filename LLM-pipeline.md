@@ -3,6 +3,10 @@
 - Chroma
 - Faiss
 
+## Online Open Source
+- Milvus
+- Qdrant
+
 ## Online
 - Pinecone
 - Weaviate
