@@ -14,3 +14,6 @@
 # Conversation Search Engine
 - Perplexity
 - Tavily
+
+# Chatbot Interface
+- oobabooga[https://github.com/oobabooga/text-generation-webui]
