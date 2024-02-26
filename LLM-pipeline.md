@@ -13,3 +13,4 @@
 
 # Conversation Search Engine
 - Perplexity
+- Tavily
