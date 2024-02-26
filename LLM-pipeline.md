@@ -25,3 +25,13 @@
 # LLM Agents
 - Llangchain
 - LLamaIndex
+
+# API
+- FastAPI
+
+# Front End
+- uvicorn
+- bootsrap
+- django
+- React
+
