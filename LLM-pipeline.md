@@ -32,6 +32,10 @@
 # GUI
 - gradio
 - chainlit
+
+# Document Processing
+- pyPDF
+
   
 # Front End
 - uvicorn
