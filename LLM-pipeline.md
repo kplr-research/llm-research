@@ -1,4 +1,4 @@
-# Vector DB
+# Vector DB / Document Store
 ## Local / IN Memory : 
 - Chroma
 - Faiss
@@ -36,6 +36,8 @@
 # Document Processing
 - pyPDF
 
+# Retrievers 
+- BM25
   
 # Front End
 - uvicorn
