@@ -29,6 +29,10 @@
 # API
 - FastAPI
 
+# GUI
+- gradio
+- chainlit
+  
 # Front End
 - uvicorn
 - bootsrap
