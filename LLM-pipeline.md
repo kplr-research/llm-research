@@ -49,6 +49,6 @@
 - Zapier
 
 # Cloud Computing
-- Runpod
+- Runpod (GPU H100/A100)
 - Gitpod
 
