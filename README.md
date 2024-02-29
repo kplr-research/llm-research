@@ -9,3 +9,8 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Reasoning Engine
 - Chain-of-Thought (Wei Al 2022)
 - Context Window
+
+# LLM-augmented Autonomous Agents (LAAs)
+- BabyAGI
+- AutoGPT
+- ReAct
