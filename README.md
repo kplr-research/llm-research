@@ -14,3 +14,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - BabyAGI
 - AutoGPT
 - ReAct
+
+# MISC
+
+- [FastChat](https://github.com/lm-sys/FastChat)
