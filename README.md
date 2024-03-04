@@ -24,3 +24,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 
 # Models
 - flan T5
+
+# Model Types : 
+- AutoModelForCausalLM
+- AutoModelForSeq2SeqLM
