@@ -19,12 +19,15 @@ Let's centralize all the researches and study logs / devlogs in this repo
 
 # MISC
 - File Format :
-  GGUF (GPT-Generated Unified Format) 
+  GGUF (GPT-Generated Unified Format)
+  pytorch_model.bin
+
 - [FastChat](https://github.com/lm-sys/FastChat)
 - Model Card
 
 # Models
 - flan T5
+- 
 
 # Model Types : 
 - AutoModelForCausalLM
