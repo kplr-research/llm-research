@@ -10,6 +10,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Chain-of-Thought (Wei Al 2022)
 - Context Window
 - Sentence Transformers
+- GPTQ
 
 # LLM-augmented Autonomous Agents (LAAs)
 - BabyAGI
