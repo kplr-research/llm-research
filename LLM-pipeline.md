@@ -25,6 +25,11 @@
 # LLM Agents
 - Llangchain
 - LLamaIndex
+- HayStack
+
+# Hubs
+- HuggingFace
+- Ollama
 
 # API
 - FastAPI
