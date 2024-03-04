@@ -57,3 +57,5 @@
 - Runpod (GPU H100/A100)
 - Gitpod
 
+# Libraries 
+- accelerate
