@@ -32,3 +32,10 @@ Let's centralize all the researches and study logs / devlogs in this repo
 # Model Types : 
 - AutoModelForCausalLM
 - AutoModelForSeq2SeqLM
+
+# Metrics
+- Cross Entropy
+- Perplexity
+  
+- Adam Optimizer
+- SGD
