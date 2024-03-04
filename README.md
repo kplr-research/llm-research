@@ -18,3 +18,4 @@ Let's centralize all the researches and study logs / devlogs in this repo
 # MISC
 
 - [FastChat](https://github.com/lm-sys/FastChat)
+- Model Card
