@@ -10,7 +10,8 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Chain-of-Thought (Wei Al 2022)
 - Context Window
 - Sentence Transformers
-- GPTQ
+- Quantization (8bit) GPTQ
+- Similarity
 
 # LLM-augmented Autonomous Agents (LAAs)
 - BabyAGI
