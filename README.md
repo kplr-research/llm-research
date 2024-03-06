@@ -15,6 +15,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
   - GPTQ
   - QLoRA : Quantized low rank adaptation.
 - Similarity
+- Catastrophic Forgetting
 
 # LLM-augmented Autonomous Agents (LAAs)
 - BabyAGI
