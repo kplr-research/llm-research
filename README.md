@@ -16,6 +16,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
   - QLoRA : Quantized low rank adaptation.
 - Similarity
 - Catastrophic Forgetting
+- Self Supervised Learning
 
 # LLM-augmented Autonomous Agents (LAAs)
 - BabyAGI
