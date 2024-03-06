@@ -53,8 +53,10 @@
 # Tools
 - Zapier
 
-# Cloud Computing
+# Compute
 - Runpod (GPU H100/A100)
+- VastAI
+- Lambda Labs
 - Gitpod
 
 # Libraries 
