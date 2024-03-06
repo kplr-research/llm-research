@@ -10,7 +10,10 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Chain-of-Thought (Wei Al 2022)
 - Context Window
 - Sentence Transformers
-- Quantization (8bit) GPTQ
+- Quantization
+  - (8bit)
+  - GPTQ
+  - QLoRA : Quantized low rank adaptation.
 - Similarity
 
 # LLM-augmented Autonomous Agents (LAAs)
