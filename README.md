@@ -18,6 +18,10 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Catastrophic Forgetting
 - Self Supervised Learning
 
+# Tool Concepts
+- Tokenizers
+- DataCollator
+- 
 # LLM-augmented Autonomous Agents (LAAs)
 - BabyAGI
 - AutoGPT
