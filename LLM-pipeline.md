@@ -61,6 +61,7 @@
 
 # Libraries 
 - accelerate
+- PEFT (parameter efficicient fine tuning)
 
 # Small Models : 
 - TinyLlama/TinyLlama-1.1B-Chat-v1.0
