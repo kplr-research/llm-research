@@ -17,6 +17,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Similarity
 - Catastrophic Forgetting
 - **Self Supervised Learning**
+- Validation Loss (low is good, high is overfitting, unable to generalize)
 
 # Tool Concepts
 - Tokenizers
