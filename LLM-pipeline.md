@@ -62,6 +62,7 @@
 # Libraries 
 - accelerate
 - PEFT (parameter efficicient fine tuning)
-
+- Supervised Fine-tuning Trainer SFT from LRM
+  
 # Small Models : 
 - TinyLlama/TinyLlama-1.1B-Chat-v1.0
