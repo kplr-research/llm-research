@@ -63,6 +63,7 @@
 - accelerate
 - PEFT (parameter efficicient fine tuning)
 - Supervised Fine-tuning Trainer SFT from LRM
+- [Tiktoken](https://github.com/openai/tiktoken) Byte Pair Encoding (BPE)
   
 # Small Models : 
 - TinyLlama/TinyLlama-1.1B-Chat-v1.0
