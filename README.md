@@ -23,6 +23,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - AI Agents
 - World View Building
 - MulitModal Models
+- Function Calling
 
 # Tool Concepts
 - Tokenizers
