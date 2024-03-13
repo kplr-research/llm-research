@@ -47,6 +47,7 @@ Let's centralize all the researches and study logs / devlogs in this repo
 # Metrics
 - Cross Entropy
 - Perplexity
+- wandb (wieghts and biases tracking library)
   
 - Adam Optimizer
 - SGD
