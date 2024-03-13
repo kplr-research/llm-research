@@ -18,6 +18,11 @@ Let's centralize all the researches and study logs / devlogs in this repo
 - Catastrophic Forgetting
 - **Self Supervised Learning**
 - Validation Loss (low is good, high is overfitting, unable to generalize)
+- Planning
+- Reasoning Engine
+- AI Agents
+- World View Building
+- MulitModal Models
 
 # Tool Concepts
 - Tokenizers
